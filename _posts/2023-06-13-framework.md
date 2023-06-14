@@ -3,4 +3,4 @@ I presently have a [framework](https://frame.work) laptop both as my main comput
 > [Node/ NPM](http://nodejs.org) apps operate at an exponentially faster rate
 > * simple React SPAs would take several minutes to boot up on Windows 11 with an i7 processor and 64gb of RAM !!!
 > * After moving the files into the Linux home directory and running VS Code using this [Manjaro.exe](https://github.com/changrui/ManjaroWSL), apps would boot in seconds
-> * * **it is essential to put the files into the Linux subsystem file structure to recieve performance benefits**
+>   * **it is essential to put the files into the Linux subsystem file structure to recieve performance benefits**

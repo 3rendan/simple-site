@@ -7,7 +7,7 @@ published: true
 
 **Brendan Ryan** is the App Developer at American Public Television 
 
-## SOFTWARE EXPERIENCE
+#### SOFTWARE EXPERIENCE
 **App Developer | American Public Television** 
 Boston, MA | 2/2023-present
 Designing and developing the web presence of American Public Television with ReactJS SPAs.
@@ -20,7 +20,7 @@ Redesigning sign-in and sign-up pages and optimizing them for mobile devices;
 Updating the version of Bootstrap used;
 Creating a roles and permission system for institutions using the CanCan gem.
 
-### EDUCATION
+#### EDUCATION
 > University of Rhode Island
 > Masters, Library & Information Sciences
 > 2008 - 2009
@@ -31,7 +31,7 @@ Creating a roles and permission system for institutions using the CanCan gem.
 > Software Engineering Immersive Remote
 > 2019-2020
 
-### LIBRARY EXPERIENCE
+#### LIBRARY EXPERIENCE
 
 **Technical Services Librarian | Providence Athenaeum**
 PROVIDENCE RI |  AUGUST 2015 - SEPTEMBER 2020
@@ -44,11 +44,9 @@ PROVIDENCE RI |  AUGUST 2015 - SEPTEMBER 2020
 > Updating and optimizing cataloging records;
 > Manage library ILS (Innovative Sierra) and coordinate transition from Millennium with RISD.
 
-## PUBLICATIONS
+#### PUBLICATIONS
 
 Ryan, B. (2011). Developing Library Websites Optimized for Mobile
-> Devices. Reference Librarian, 52(1/2), 128–135.
+Devices. *Reference Librarian*, 52(1/2), 128–135.
 
-Ryan, B. (2013). *Optimizing Academic Library Services in the 
-> Digital Milieu Digital Devices and Their Emerging Trends*. 
-> Oxford, >England: Chandos Pub.
+Ryan, B. (2013). *Optimizing Academic Library Services in the Digital Milieu Digital Devices and Their Emerging Trends*. Oxford, England: Chandos Pub.
