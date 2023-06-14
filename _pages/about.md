@@ -7,9 +7,11 @@ published: true
 
 **Brendan Ryan** is the App Developer at American Public Television
 
-Providence, Rhode Island | 401.556.0600
-brendan.ryan@pm.me | 3rendan.github.io/simple-site
-linkedin.com/in/brendan-r-ryan | github.com/3rendan 
+Providence, Rhode Island 
+brendan.ryan@pm.me 
+3rendan.github.io/simple-site
+linkedin.com/in/brendan-r-ryan 
+github.com/3rendan 
 
 ## SOFTWARE EXPERIENCE
 **App Developer | American Public Television** 
@@ -27,13 +29,13 @@ Creating a roles and permission system for institutions using the CanCan gem.
 ### EDUCATION
 > University of Rhode Island
 > Masters, Library & Information Sciences
->> 2008 - 2009
+> 2008 - 2009
 > Providence College / B.A. Sociology
->> 1997 - 2001
+> 1997 - 2001
 > 
 > General Assembly
->> Software Engineering Immersive Remote
->> 2019-2020
+> Software Engineering Immersive Remote
+> 2019-2020
 
 ### LIBRARY EXPERIENCE
 
@@ -51,8 +53,8 @@ PROVIDENCE RI |  AUGUST 2015 - SEPTEMBER 2020
 ## PUBLICATIONS
 
 Ryan, B. (2011). Developing Library Websites Optimized for Mobile
->> Devices. Reference Librarian, 52(1/2), 128–135.
+> Devices. Reference Librarian, 52(1/2), 128–135.
 
 Ryan, B. (2013). *Optimizing Academic Library Services in the 
->> Digital Milieu Digital Devices and Their Emerging Trends*. 
->> Oxford, >England: Chandos Pub.
+> Digital Milieu Digital Devices and Their Emerging Trends*. 
+> Oxford, >England: Chandos Pub.
