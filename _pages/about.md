@@ -5,13 +5,7 @@ permalink: /about/
 published: true
 ---
 
-**Brendan Ryan** is the App Developer at American Public Television
-
-Providence, Rhode Island 
-brendan.ryan@pm.me 
-3rendan.github.io/simple-site
-linkedin.com/in/brendan-r-ryan 
-github.com/3rendan 
+**Brendan Ryan** is the App Developer at American Public Television 
 
 ## SOFTWARE EXPERIENCE
 **App Developer | American Public Television** 
